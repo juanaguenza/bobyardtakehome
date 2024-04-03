@@ -18,7 +18,7 @@ const startServer = async () => {
   app.use("", router);
 
   app.listen(port, () => {
-    console.log(`Server is Fire at http://localhost:${port}`);
+    console.log(`Server is live at http://localhost:${port}`);
   });
 };
 

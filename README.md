@@ -24,4 +24,4 @@ Here is a link to the [postman collection](https://www.postman.com/jaguenza/work
 
 If I had more time I would have began implementing a basic frontend to start
 displaying the information. My plan was to utilize [shadcn's open source
-component "Card"](https://ui.shadcn.com/docs/components/card) and modify it to display the comments. After that I would begin to incorporate the features of Part 3 to allow comments to be updated and created directly from the frontend. After getting a working frontend and backend I would begin to implement testing and documentation for the backend endpoints utilizing Swagger.
+component "Card"](https://ui.shadcn.com/docs/components/card) and modify it to display the comments. After that I would begin to incorporate the features of Part 3 to allow comments to be updated and created directly from the frontend. After getting a working frontend and backend I would begin to implement testing and documentation for the backend endpoints utilizing Swagger. Additionally, I would utilize my .env file and make sure anything sensitive is hidden.
