@@ -13,7 +13,7 @@ Only finished the backend, was not able to get to the frontend in time.
 
 Navigate to ~/backend
 
-Run the backend by first compiling the ts files into js through npm run build,
+First install all dependencies through running npm install. Run the backend by compiling the ts files into js through npm run build,
 then run npm run start to start the server
 
 ## Testing the backend
